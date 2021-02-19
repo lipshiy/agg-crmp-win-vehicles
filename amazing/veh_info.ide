@@ -202,7 +202,7 @@ cars
 598, 	copcarvg,	copcarvg,	car, 		POLICE_VG, 	POLICAR,	null,			ignore,		10,	0,	0,			-1, 0.76, 0.76,	-1
 599, 	copcarru,	copcarru,	car, 		POLRANGER, 	RANGER,		null,			ignore,		10,	0,	0,			-1, 0.95, 0.95,	-1
 
-600,	picador,	picador,	car, 		PICADOR, 	PICADOR, 	null,			normal, 	10, 0,	0,			-1, 0.7, 0.7, 0
+600,	picador,	picador,	car, 		PICADOR, 	PICADOR, 	null,			normal, 	10, 0,	0,			-1, 0.75, 0.75, 0
 601, 	swatvan, 	swatvan, 	car, 		SWATVAN, 	SWATVAN, 	van,			big,	 	4, 	0,	0,			-1, 1.2, 1.2, -1
 602,	alpha,		alpha,		car, 		ALPHA,		ALPHA, 		null,			executive, 	10, 0,	0,			-1, 0.76, 0.76, 0
 603, 	phoenix, 	phoenix, 	car, 		PHOENIX, 	PHOENIX, 	null,			normal,		7, 	0,	0,			-1, 0.7, 0.7, 0
