@@ -1,0 +1,32 @@
+function::IsPaintjobSupport(vehicleid, paintjob) {
+
+	if (paintjob < 0 || paintjob > 2)
+		return true;
+
+    switch(GetVehicleModel(vehicleid)) { 
+
+		case 400, 410, 429, 436, 439, 451, 466, 475, 480, 494, 502, 515, 543, 558, 559, 562: {
+			return true;
+		}
+
+		case 604: {
+
+			if (paintjob == 0) {
+				return true;
+			}
+
+		}
+
+		case 438, 503, 506, 602, 644: {
+
+			if (paintjob != 2) {
+				return true;
+			}
+
+		}
+		
+    }
+
+	return false;
+
+}
