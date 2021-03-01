@@ -9,7 +9,7 @@ cars
 406, 	trash,		trash,	 	mtruck, 	TRASH, 		TRASHM,		truck,			worker,	 	5,	1,	0,			-1, 1.3,  1.3, -1
 407, 	firetruk, 	firetruk, 	car, 		FIRETRUK, 	FIRETRK, 	truck,			ignore,		10,	0,	0,			-1, 1.0,  1.0, -1
 408, 	trscan,		trscan, 	car, 		TRSCAN, 	TRSCAN, 	truck,			worker,	 	6,	0,	0,			-1, 1.1,  1.1, -1
-409, 	stretch,	stretch, 	car, 		STRETCH, 	STRETCH, 	null,			executive, 	5,	0,	0,			-1, 0.85, 0.85, -1
+409, 	stretch,	stretch, 	car, 		STRETCH, 	STRETCH, 	null,			executive, 	5,	0,	0,			-1, 0.91, 0.91, -1
 410, 	manana, 	manana, 	car, 		MANANA, 	MANANA, 	null,			poorfamily,	10, 0,	0,			-1, 0.76, 0.76,	0
 411, 	infernus, 	infernus, 	car, 		INFERNUS, 	INFERNU, 	null,			executive, 	5, 	0,	0,			-1, 0.75, 0.75,	0
 412, 	voodoo, 	voodoo, 	car, 		VOODOO, 	VOODOO, 	null,			poorfamily,	10, 0,	0,			-1, 0.8,  0.8, 0
