@@ -104,7 +104,7 @@ cars
 501, 	rcgoblin, 	rcgoblin, 	heli, 		RCGOBLIN, 	RCGOBLI, 	null,			ignore,		1,	0,	0,			-1, 0.25, 0.25,	-1
 502,	hotrina, 	hotrina, 	car, 		HOTRING, 	HOTRINA, 	null,			ignore, 	1,	0,	4fff,		-1, 0.82, 0.82,	-1
 503,	hotrinb, 	hotrinb, 	car, 		HOTRING, 	HOTRINB, 	null,			ignore, 	1,	0,	4fff,		-1, 0.82, 0.82,	-1
-504, 	bloodra, 	bloodra, 	car, 		BLOODRA, 	BLOODRA, 	BF_injection,	ignore,		1, 	0,	4fff,		-1, 0.7, 0.7, -1
+504, 	bloodra, 	bloodra, 	car, 		BLOODRA, 	BLOODRA, 	BF_injection,	ignore,		1, 	0,	4fff,		-1, 0.8, 0.8, -1
 505,	rnchlure, 	rnchlure, 	car,		RANCHER, 	RANCHER, 	null,			normal,		10,	0,	0,			-1, 0.87, 0.87,	-1
 506, 	supergt, 	supergt, 	car, 		SUPERGT, 	SUPERGT, 	null,			executive, 	5, 	0,	0,			-1, 0.75, 0.75,	0
 507, 	elegant, 	elegant, 	car, 		ELEGANT, 	ELEGANT, 	null,			normal,		10, 0,	0,			-1, 0.75, 0.75,	0
