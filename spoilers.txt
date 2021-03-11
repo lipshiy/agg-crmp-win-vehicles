@@ -1,0 +1,14 @@
+function::IsSpoilerSupport(vehicleid, spoiler) {
+
+	if (spoiler < 1000 || spoiler > 1003)
+		return false;
+
+	switch (GetVehicleModel(vehicleid)) {
+
+		case 402, 404, 409, 411, 412, 420, 421, 426, 436, 439, 445, 466, 438, 479, 491, 517, 529, 534, 540, 543, 585, 616, 632: return true;
+
+	}
+
+	return false;
+
+}
