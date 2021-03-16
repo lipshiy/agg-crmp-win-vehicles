@@ -103,7 +103,7 @@ cars
 500,	mesa, 		mesa, 		car, 		MESA,	 	MESAA, 		null,			normal, 	8,	0,	0,			-1, 0.70, 0.70,	0
 501, 	rcgoblin, 	rcgoblin, 	heli, 		RCGOBLIN, 	RCGOBLI, 	null,			ignore,		1,	0,	0,			-1, 0.25, 0.25,	-1
 502,	hotrina, 	hotrina, 	car, 		HOTRING, 	HOTRINA, 	null,			ignore, 	1,	0,	4fff,		-1, 0.82, 0.82,	-1
-503,	hotrinb, 	hotrinb, 	car, 		HOTRING, 	HOTRINB, 	null,			ignore, 	1,	0,	4fff,		-1, 0.82, 0.82,	-1
+503,	hotrinb, 	hotrinb, 	car, 		HOTRING, 	HOTRINB, 	null,			ignore, 	1,	0,	4fff,		-1, 0.8, 0.8, -1
 504, 	bloodra, 	bloodra, 	car, 		BLOODRA, 	BLOODRA, 	BF_injection,	ignore,		1, 	0,	4fff,		-1, 0.8, 0.8, -1
 505,	rnchlure, 	rnchlure, 	car,		RANCHER, 	RANCHER, 	null,			normal,		10,	0,	0,			-1, 0.87, 0.87,	-1
 506, 	supergt, 	supergt, 	car, 		SUPERGT, 	SUPERGT, 	null,			executive, 	5, 	0,	0,			-1, 0.75, 0.75,	0
@@ -158,10 +158,10 @@ cars
 555,	windsor,	windsor,	car, 		WINDSOR, 	WINDSOR, 	null,			executive, 	4, 	0,	0,			-1, 0.58, 0.58,	0
 556,	monstera, 	monstera, 	mtruck,		MTRUCK_A, 	MONSTA, 	truck,			ignore,		1,	0,	0,			-1, 1.5, 1.5, -1
 557,	monsterb, 	monsterb, 	mtruck,		MTRUCK_B, 	MONSTB, 	truck,			ignore,		1,	0,	0,			-1, 1.5, 1.5, -1
-558,	uranus,		uranus,		car, 		URANUS, 	URANUS, 	null,			richfamily, 7, 	0,	0,			-1, 0.76, 0.76,	1
+558,	uranus,		uranus,		car, 		URANUS, 	URANUS, 	null,			richfamily, 7, 	0,	0,			-1, 0.65, 0.65, 1
 559,	jester,		jester,		car, 		JESTER, 	JESTER, 	null,			richfamily, 7, 	0,	0,			-1, 0.78, 0.78,	1
-560,	sultan,		sultan,		car, 		SULTAN, 	SULTAN, 	null,			richfamily, 7, 	0,	0,			-1, 0.8, 0.8, 1
-561,	stratum,	stratum,	car, 		STRATUM, 	STRATUM, 	null,			richfamily, 7, 	0,	0,			-1, 0.85, 0.85,	1
+560,	sultan,		sultan,		car, 		SULTAN, 	SULTAN, 	null,			richfamily, 7, 	0,	0,			-1, 0.82, 0.82, 1
+561,	stratum,	stratum,	car, 		STRATUM, 	STRATUM, 	null,			richfamily, 7, 	0,	0,			-1, 0.74, 0.74, 1
 562,	elegy,		elegy,		car, 		ELEGY,	 	ELEGY, 		null,			richfamily, 7, 	0,	0,			-1, 0.68, 0.68,	1
 563, 	raindanc, 	raindanc, 	heli, 		RAINDANC, 	RAINDNC, 	null,			ignore,		7,	0,	0,			-1, 0.64, 0.64,	-1
 564, 	rctiger, 	rctiger, 	car, 		RCTIGER, 	RCTIGER, 	null,			ignore,		1, 	0,	0,			-1, 0.25, 0.25,	-1
@@ -202,7 +202,7 @@ cars
 598, 	copcarvg,	copcarvg,	car, 		POLICE_VG, 	POLICAR,	null,			ignore,		10,	0,	0,			-1, 0.76, 0.76,	-1
 599, 	copcarru,	copcarru,	car, 		POLRANGER, 	RANGER,		null,			ignore,		10,	0,	0,			-1, 0.95, 0.95,	-1
 
-600,	picador,	picador,	car, 		PICADOR, 	PICADOR, 	null,			normal, 	10, 0,	0,			-1, 0.75, 0.75, 0
+600,	picador,	picador,	car, 		PICADOR, 	PICADOR, 	null,			normal, 	10, 0,	0,			-1, 0.71, 0.71, 0
 601, 	swatvan, 	swatvan, 	car, 		SWATVAN, 	SWATVAN, 	van,			big,	 	4, 	0,	0,			-1, 1.2, 1.2, -1
 602,	alpha,		alpha,		car, 		ALPHA,		ALPHA, 		null,			executive, 	10, 0,	0,			-1, 0.76, 0.76, 0
 603, 	phoenix, 	phoenix, 	car, 		PHOENIX, 	PHOENIX, 	null,			normal,		7, 	0,	0,			-1, 0.7, 0.7, 0
@@ -226,7 +226,7 @@ cars
 621, 	e63w213, 	e63w213, 	car, 		BUFFALO, 	BUFFALO, 	null,			normal,		10, 0,	0,			-1, 0.76, 0.76,	0
 622, 	licolnx, 	licolnx, 	car, 		LINCOLN, 	LINCOLN, 	null,			normal,		10, 0,	0,			-1, 0.72, 0.72,	0
 623, 	lusso, 	    lusso,   	car, 		FERLUC, 	FERLUC, 	null,			normal,		10, 0,	0,			-1, 0.78, 0.78,	0
-624, 	llx570, 	llx570, 	car, 		LEXLX570, 	LEXLX570, 	null,			normal,		10, 0,	0,			-1, 0.86, 0.86,	0
+624, 	llx570, 	llx570, 	car, 		LEXLX570, 	LEXLX570, 	null,			normal,		10, 0,	0,			-1, 0.7, 0.7, 0
 625, 	m4fix, 		m4fix,   	car, 		BMWM4, 	    BMWM4, 	    null,			normal,		10, 0,	0,			-1, 0.75, 0.75,	0
 626, 	lvesta, 	lvesta, 	car, 		VESTAS, 	VESTAS, 	null,			normal,		10, 0,	0,			-1, 0.72, 0.72,	0
 627, 	bmwx5m, 	bmwx5m, 	car, 		BMWX5M, 	BMWX5M, 	null,			normal,		6,  7,	0,	    	-1, 0.90, 0.90,	0
@@ -245,7 +245,7 @@ cars
 640, 	bmwm6, 		bmwm6, 		car, 		BMWF10, 	BMWF10, 	null,			richfamily, 10, 0,	0,			-1, 0.75, 0.75,	2
 641, 	delorean, 	delorean, 	car, 		delorean, 	delorean, 	null,			normal, 	10, 0,	0,			-1, 0.7, 0.7, -1
 642, 	corvetik, 	corvetik, 	car, 		corvetik, 	corvetik, 	null,			normal, 	10, 0,	0,			-1, 0.7, 0.7, -1
-643,	tescyb, 	tescyb, 	car,		CYANDK, 	CYANDK, 	null,			richfamily,	6,	7,	0,			-1, 0.90, 0.90, 0
+643,	tescyb, 	tescyb, 	car,		CYANDK, 	CYANDK, 	null,			richfamily,	6,	7,	0,			-1, 0.83, 0.83, 0
 644,	volvovnl,	volvovnl, 	car, 		VOLVOVNL, 	VOLVOVNL, 	truck,			worker,	 	5,	0,	0,			-1, 1.08, 1.08,	-1
 645, 	quadra, 	quadra, 	car, 		TURISMO, 	TURISMO, 	null,			executive, 	4, 	0,	0,			-1, 0.7, 0.75, 0	
 end
